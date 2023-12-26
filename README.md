@@ -12,7 +12,7 @@ Rogue and BLEU scores are calculated for the model.
 - Google Colab (for the provided Google Drive integration)
 
 ## Execution
-Upload the file and text file to Google Colab and run all cells.
+Upload the ipynb file and text file to Google Colab and run all cells.
 
 ## Example
 An example usage is provided in the script for summarizing the "gift-of-magi.txt" story.
